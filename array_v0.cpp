@@ -5,8 +5,6 @@
 
 using namespace std;
 
-//scrapped bc it cant be implemented into the menu rip :^)
-
 void a_insert(int *&arr, int &size)
 {
 	chrono::time_point<chrono::system_clock> start, end;
